@@ -1,0 +1,8 @@
+profile.local.md
+*.local.md
+.env
+.env.*
+*.log
+__pycache__/
+.DS_Store
+
